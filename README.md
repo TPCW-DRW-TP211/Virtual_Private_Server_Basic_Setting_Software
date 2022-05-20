@@ -1,0 +1,2 @@
+# Virtual_Private_Server_Basic_Setting_Software
+This software can currently be used to set the basic functions of the Windows Virtual Private Server (e.g. Modify the RDP port, Turn on/off the firewall, Allow/Disable ping, Add/Delete the firewall port rule). This software is currently strictly prohibited to be used on Linux or MacOS (e.g. Using Wine to run) otherwise the consequences will be at your own risk. Tips: This software is currently in the testing and development stage and cannot be guaranteed to be 100% universal.
